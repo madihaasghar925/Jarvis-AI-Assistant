@@ -3,11 +3,33 @@
 
 An offline AI-powered desktop voice assistant built with Python.
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Llama%203-AI-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Speech%20Recognition-Enabled-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Text%20to%20Speech-pyttsx3-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Status-Version%201.0-brightgreen?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-Yes-blueviolet?style=for-the-badge">
+
+</p>
+
+
+#  Project Overview
+---
+
 JARVIS can understand voice commands, respond using natural speech, open websites, play music, and answer general questions using a locally running Large Language Model (Llama 3 via Ollama).
 
 Unlike traditional voice assistants that depend on cloud APIs, JARVIS performs AI conversations locally, making it faster, privacy-friendly, and completely free to use.
 
----
 
 #  Features
 
